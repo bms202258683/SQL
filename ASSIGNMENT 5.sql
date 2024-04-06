@@ -1,0 +1,11 @@
+-- CREATE DATABASE studentDB;
+-- use studentDB;
+-- CREATE TABLE studentinfo
+-- (
+	-- StudentID INT PRIMARY KEY,
+    -- FirstName VARCHAR(20),
+    -- LastName VARCHAR(20),
+    -- DateOfBirth DATE,
+    -- Email VARCHAR(255),
+	-- Major VARCHAR(50)
+-- );
